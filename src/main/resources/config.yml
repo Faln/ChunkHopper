@@ -1,0 +1,4 @@
+blacklisted-worlds:
+  - 'no-collector-world'
+blacklisted-materials:
+  - 'BONE'

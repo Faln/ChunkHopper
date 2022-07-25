@@ -1,0 +1,4 @@
+name: ChunkHopper
+version: '${project.version}'
+main: me.faln.chunkhopper.ChunkHopper
+api-version: 1.19
